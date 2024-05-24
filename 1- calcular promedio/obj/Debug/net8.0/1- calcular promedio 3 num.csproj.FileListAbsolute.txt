@@ -1,0 +1,14 @@
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\1- calcular promedio 3 num\bin\Debug\net8.0\1- calcular promedio 3 num.exe
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\1- calcular promedio 3 num\bin\Debug\net8.0\1- calcular promedio 3 num.deps.json
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\1- calcular promedio 3 num\bin\Debug\net8.0\1- calcular promedio 3 num.runtimeconfig.json
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\1- calcular promedio 3 num\bin\Debug\net8.0\1- calcular promedio 3 num.dll
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\1- calcular promedio 3 num\bin\Debug\net8.0\1- calcular promedio 3 num.pdb
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\1- calcular promedio 3 num\obj\Debug\net8.0\1- calcular promedio 3 num.GeneratedMSBuildEditorConfig.editorconfig
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\1- calcular promedio 3 num\obj\Debug\net8.0\1- calcular promedio 3 num.AssemblyInfoInputs.cache
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\1- calcular promedio 3 num\obj\Debug\net8.0\1- calcular promedio 3 num.AssemblyInfo.cs
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\1- calcular promedio 3 num\obj\Debug\net8.0\1- calcular promedio 3 num.csproj.CoreCompileInputs.cache
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\1- calcular promedio 3 num\obj\Debug\net8.0\1- calcular promedio 3 num.dll
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\1- calcular promedio 3 num\obj\Debug\net8.0\refint\1- calcular promedio 3 num.dll
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\1- calcular promedio 3 num\obj\Debug\net8.0\1- calcular promedio 3 num.pdb
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\1- calcular promedio 3 num\obj\Debug\net8.0\1- calcular promedio 3 num.genruntimeconfig.cache
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\1- calcular promedio 3 num\obj\Debug\net8.0\ref\1- calcular promedio 3 num.dll

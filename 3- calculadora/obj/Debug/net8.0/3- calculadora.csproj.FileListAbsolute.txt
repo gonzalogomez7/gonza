@@ -1,0 +1,14 @@
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\3- calculadora\bin\Debug\net8.0\3- calculadora.exe
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\3- calculadora\bin\Debug\net8.0\3- calculadora.deps.json
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\3- calculadora\bin\Debug\net8.0\3- calculadora.runtimeconfig.json
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\3- calculadora\bin\Debug\net8.0\3- calculadora.dll
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\3- calculadora\bin\Debug\net8.0\3- calculadora.pdb
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\3- calculadora\obj\Debug\net8.0\3- calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\3- calculadora\obj\Debug\net8.0\3- calculadora.AssemblyInfoInputs.cache
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\3- calculadora\obj\Debug\net8.0\3- calculadora.AssemblyInfo.cs
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\3- calculadora\obj\Debug\net8.0\3- calculadora.csproj.CoreCompileInputs.cache
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\3- calculadora\obj\Debug\net8.0\3- calculadora.dll
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\3- calculadora\obj\Debug\net8.0\refint\3- calculadora.dll
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\3- calculadora\obj\Debug\net8.0\3- calculadora.pdb
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\3- calculadora\obj\Debug\net8.0\3- calculadora.genruntimeconfig.cache
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\3- calculadora\obj\Debug\net8.0\ref\3- calculadora.dll

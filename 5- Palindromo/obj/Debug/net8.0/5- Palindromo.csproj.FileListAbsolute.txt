@@ -1,0 +1,14 @@
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\5- Palindromo\obj\Debug\net8.0\5- Palindromo.GeneratedMSBuildEditorConfig.editorconfig
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\5- Palindromo\obj\Debug\net8.0\5- Palindromo.AssemblyInfoInputs.cache
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\5- Palindromo\obj\Debug\net8.0\5- Palindromo.AssemblyInfo.cs
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\5- Palindromo\obj\Debug\net8.0\5- Palindromo.csproj.CoreCompileInputs.cache
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\5- Palindromo\bin\Debug\net8.0\5- Palindromo.exe
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\5- Palindromo\bin\Debug\net8.0\5- Palindromo.deps.json
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\5- Palindromo\bin\Debug\net8.0\5- Palindromo.runtimeconfig.json
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\5- Palindromo\bin\Debug\net8.0\5- Palindromo.dll
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\5- Palindromo\bin\Debug\net8.0\5- Palindromo.pdb
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\5- Palindromo\obj\Debug\net8.0\5- Palindromo.dll
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\5- Palindromo\obj\Debug\net8.0\refint\5- Palindromo.dll
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\5- Palindromo\obj\Debug\net8.0\5- Palindromo.pdb
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\5- Palindromo\obj\Debug\net8.0\5- Palindromo.genruntimeconfig.cache
+D:\cosas del escritorio\analista de sistemas\SEGUNDO AÑO\AYED 2\nuevas practicas ayed2\clase 2\5- Palindromo\obj\Debug\net8.0\ref\5- Palindromo.dll
